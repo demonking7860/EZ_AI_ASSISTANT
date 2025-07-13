@@ -1,8 +1,8 @@
-# Python virtual environment
-venv/
-
-# Environment variables file
-.env
+# Python artifacts
 __pycache__/
 *.py[cod]
-.pytest_cache/
+.env
+venv/
+models/
+db/chroma_db/
+.streamlit/secrets.toml
