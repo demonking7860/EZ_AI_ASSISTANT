@@ -1,0 +1,22 @@
+# Core web framework
+streamlit>=1.37.0
+
+# LangChain ecosystem (NO CrewAI)
+langchain>=0.3.0,<0.4.0
+langchain-core>=0.3.0,<0.4.0
+langchain-community>=0.3.0,<0.4.0
+langchain-chroma>=0.2.0
+langchain-huggingface>=0.1.0
+langchain-google-genai>=0.1.0
+
+# Vector database
+chromadb>=0.5.0,<0.6.0
+
+# Utilities
+python-dotenv>=1.0.0
+pypdf>=4.0.0
+tiktoken>=0.7.0
+
+# Core dependencies
+pydantic>=2.8.0,<3.0.0
+sentence-transformers>=2.0.0
