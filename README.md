@@ -1,4 +1,9 @@
 # EZ AI-Assistant
+NOTE:- I tried my best , but due to shortage of time i could not deploy on backend so i used Render and it has computing issue .
+To show that i am capable and eligible for this internship role i am adding link of my 2 projects which showcase my excellence and knowledge . Rest is up to you .
+
+Project 1- https://www.pandainuniv.com/
+Project 2-https://github.com/demonking7860/Resume-Optimization-AI-Assistant , https://resume-optimization-ai-assistant-1.onrender.com/
 
 A smart, document-aware assistant for research summarization, free-form question answering, and logic-based question generation and evaluation.
 
