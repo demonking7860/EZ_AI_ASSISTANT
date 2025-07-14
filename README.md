@@ -6,7 +6,7 @@ Project 1- https://www.pandainuniv.com/
 Project 2-https://github.com/demonking7860/Resume-Optimization-AI-Assistant , https://resume-optimization-ai-assistant-1.onrender.com/
 
 A smart, document-aware assistant for research summarization, free-form question answering, and logic-based question generation and evaluation.
-
+Smart AI ASSISTANT-https://ez-ai-assistant.onrender.com
 
 ## Overview
 EZ AI-Assistant enables users to upload a PDF or TXT document, then:
